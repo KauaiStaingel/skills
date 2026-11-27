@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Developer"
+  short_description: "Cria e valida UI intencional e acessível"
+  default_prompt: "Use $ui-developer para criar ou revisar esta interface do briefing ao QA visual."
